@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/25-5-Timer/static/css/main.4fc7625f.css",
+    "main.js": "/25-5-Timer/static/js/main.1a61d895.js",
+    "static/js/453.a6a97343.chunk.js": "/25-5-Timer/static/js/453.a6a97343.chunk.js",
+    "index.html": "/25-5-Timer/index.html",
+    "main.4fc7625f.css.map": "/25-5-Timer/static/css/main.4fc7625f.css.map",
+    "main.1a61d895.js.map": "/25-5-Timer/static/js/main.1a61d895.js.map",
+    "453.a6a97343.chunk.js.map": "/25-5-Timer/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc7625f.css",
+    "static/js/main.1a61d895.js"
+  ]
+}
